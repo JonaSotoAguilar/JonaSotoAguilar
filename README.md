@@ -123,7 +123,7 @@
 <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
 </a>
 </p>
-<p>WealthQuest es un juego de mesa digital en 3D costruido en Unity y diseñado para enseñar educación financiera de una manera divertida e interactiva. Cada partida pone a prueba los conocimientos financieros de los jugadores y los desafía a tomar decisiones estratégicas sobre inversiones, ingresos y gastos mientras compiten para obtener la mejor puntuación.</p>
+<p>WealthQuest es un juego de mesa digital en 3D construido en Unity y diseñado para enseñar educación financiera de una manera divertida e interactiva. Cada partida pone a prueba los conocimientos financieros de los jugadores y los desafía a tomar decisiones estratégicas sobre inversiones, ingresos y gastos mientras compiten para obtener la mejor puntuación.</p>
 </div>
                                                                                       
 </td>  
