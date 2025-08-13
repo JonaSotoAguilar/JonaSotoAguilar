@@ -128,6 +128,22 @@
                                                                                       
 </td>  
 
+<td width="50%">
+<h3 align="center">Sensor de Fintual en bGames</h3>
+<div align="center">                                       
+<a href="https://github.com/BlendedGames-bGames/bGames-FintualSensor" target="_blank"><img src="https://fintual.cl/f/og-image.png" width="400" alt="Sensor de Fintual en bGames"></a>
+<br>
+<p>
+<a href="https://github.com/BlendedGames-bGames/bGames-FintualSensor" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>El Sensor de Fintual es un componente diseñado para evaluar el cumplimiento de metas de ahorro mensual a travez de la API de la plataforma Fintual. Este sensor se integra en la aplicación bGames, permitiendo a los usuarios asociar sus cuentas, validar el cumplimiento de metas y obtener puntos basados en el ahorro.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 </table>                                                                                 
 </div>
 <br>
